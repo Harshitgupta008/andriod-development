@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Masti</string>
+    <string name="enter_your_name"> Number </string>
+    <string name="click_here">Submit</string>
+</resources>
