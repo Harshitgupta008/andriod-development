@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <ScrollView
+        android:id="@+id/scrollView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="25sp">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="145dp"
+                android:layout_height="104dp"
+                app:srcCompat="@drawable/circle" />
+
+            <TextView
+                android:id="@+id/t1"
+                android:layout_width="match_parent"
+                android:layout_height="82dp"
+                android:text="A circle is a round-shaped figure that has no corners or edges. In geometry, a circle can be defined as a closed, two-dimensional curved shape."
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/bm11"
+                android:layout_width="393dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="@string/circle"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="145dp"
+                android:layout_height="104dp"
+                app:srcCompat="@drawable/download" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="match_parent"
+                android:layout_height="101dp"
+                android:text="The sum of all three interior angles of a triangle is always equal to 180⁰. The sum of the length of any two sides of a triangle is always greater than the length of the third side. The area of a triangle is equal to half of the product of its base and height."
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/bm12"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Right Triangle"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="145dp"
+                android:layout_height="104dp"
+                app:srcCompat="@drawable/triangle" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="In geometry, an isosceles triangle is a triangle that has two sides of equal length." />
+
+            <Button
+                android:id="@+id/bm13"
+                android:layout_width="359dp"
+                android:layout_height="47dp"
+                android:textStyle="bold"
+                android:text="Isosceles Triangle" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

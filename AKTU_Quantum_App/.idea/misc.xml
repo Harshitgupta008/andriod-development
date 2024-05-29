@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/drawable/il_books.xml" value="0.2555" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/drawable/il_exams.xml" value="0.2555" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/activity_main.xml" value="0.26875" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/activity_pdfviewer.xml" value="0.26875" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/activity_select_quantum.xml" value="0.26875" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/activity_select_unit.xml" value="0.2105978260869565" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/activity_select_year.xml" value="0.26875" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/activity_slect_unit.xml" value="0.26875" />
+        <entry key="..\:/All Project/AKTU_Quantum_App/app/src/main/res/layout/item_quantum.xml" value="0.26875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

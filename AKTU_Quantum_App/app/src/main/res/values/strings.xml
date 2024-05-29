@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AKTU Quantum App</string>
+    <string name="aktu_previous_year_questions">AKTU Previous Year Questions</string>
+    <string name="previous_year_questions">Previous Year Questions</string>
+    <string name="attempt_quiz">Attempt Quiz</string>
+    <string name="brought_to_you_with_by_laudasur">Brought to you with ❤️by Laudasur</string>
+    <string name="select_unit">Select Unit</string>
+</resources>
